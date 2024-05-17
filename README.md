@@ -42,7 +42,7 @@ Rosalind/
 
 Below is a list of problems solved so far:
 
-###Bioinformatics_Stronghold
+### Bioinformatics_Stronghold
 - Counting DNA Nucleotides: [DNA](Rosalind_Problems/Bioinformatics_Stronghold/1_DNA/)
 - Transcribing DNA into RNA: [RNA](Rosalind_Problems/Bioinformatics_Stronghold/2_RNA/)
 - Complementing a Strand of DNA: [REVC](Rosalind_Problems/Bioinformatics_Stronghold/3_REVC/)
@@ -53,7 +53,7 @@ Below is a list of problems solved so far:
 - Translating RNA into Protein: [FIB](Rosalind_Problems/Bioinformatics_Stronghold/8_PROT/)
 - Finding a Motif in DNA: [SUBS](Rosalind_Problems/Bioinformatics_Stronghold/9_SUBS/)
 
-###Python_Village
+### Python_Village
 - Hypotenuse: [INI2](Rosalind_Problems/Python_Village/INI2/)
 - Finding Substrings: [INI3](Rosalind_Problems/Python_Village/INI3/)
 - Sum of odd numbers: [INI4](Rosalind_Problems/Python_Village/INI4/)
@@ -67,7 +67,7 @@ Below is a list of problems solved so far:
      git clone https://github.com/AlisF42/Rosalind
 2. Navigate to a problem directory:
    ```bash
-    cd Rosalind_Problems/Bioinformatics_Stronghold/problem1
+    cd Rosalind_Problems/Bioinformatics_Stronghold/problem_1
 3. Run the solution script with Python:
   ```bash
-     ./problem1.py problem_1_data.txt
+     ./problem_1.py problem_1_data.txt
