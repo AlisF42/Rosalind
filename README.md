@@ -14,27 +14,42 @@ This repository contains my solutions to the bioinformatics problems presented o
 [Rosalind](http://rosalind.info/) is a platform for learning bioinformatics through problem-solving. It offers a collection of problems of varying difficulty, designed to introduce and reinforce concepts in bioinformatics and computational biology.
 
 ## Project Structure
-
+├── README.md
+└── Rosalind_Problems
 The repository is organized as follows:
-rosalind-bioinformatics-solutions/
-│
-├── problem1/
-│ ├── problem1.py
-│ └── README.md
-├── problem2/
-│ ├── problem2.py
-│ └── README.md
-├── ...
-│
-└── README.md
-Each problem has its own directory, containing the solution script and a `README.md` file that describes the problem and the approach used to solve it.
+Rosalind/
+└── Rosalind_Problems
+    ├── Bioinformatics_Stronghold
+    │   ├── problem_1
+    │   │   ├── README.md
+    │   │   ├── problem_1.py
+    │   │   └── problem_1.txt
+    │   ├── problem_2
+    │   │   ├── README.md
+    │   │   ├── problem_2.py
+    │   │   └── problem_2_data.txt
+    │   ├── ...
+    ├── Python_Village
+    │   ├── problem_1
+    │   │   ├── README.md
+    │   │   ├── problem_1.py
+    │   │   └── problem_1.txt
+    │   ├── problem_2
+    │   │   ├── README.md
+    │   │   ├── problem_2.py
+    │   │   └── problem_2_data.txt
+    │   ├── ...
+    └── README.md 
+        
+"Python_Village" and "Bioinformatics_Stronghold" are different sections of the Rosalind site, each focused on different topics (introductory Python and bioinformatics). Inside these directories are the problems, and each problem has its own directory containing the solution script, the data used, and a README.md file that describes the problem.
 
 ## Problems and Solutions
 
-Below is a list of problems solved so far. Click on a problem to see the solution:
+Below is a list of problems solved so far:
 
-- [Problem 1: DNA](problem1/)
-- [Problem 2: RNA](problem2/)
+###Bioinformatics_Stronghold
+- [Problem 1: DNA](Bioinformatics_Stronghold/1_DNA/)
+- [Problem 2: RNA](Bioinformatics_Stronghold/2_RNA/)
 - [Problem 3: REVC](problem3/)
 - [Problem 4: FIB](problem4/)
 - [More problems...](#)
