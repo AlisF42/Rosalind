@@ -47,10 +47,10 @@ Rosalind/
 Below is a list of problems solved so far:
 
 ###Bioinformatics_Stronghold
-- [Problem 1: DNA](Rosalind_Problems/Bioinformatics_Stronghold/1_DNA/)
-- [Problem 2: RNA](Rosalind_Problems/Bioinformatics_Stronghold/2_RNA/)
-- [Problem 3: REVC](Rosalind_Problems/Bioinformatics_Stronghold/3_REVC/)
-- [Problem 4: FIB](Rosalind_Problems/Bioinformatics_Stronghold/4_FIB/)
+- Counting DNA Nucleotides: [DNA](Rosalind_Problems/Bioinformatics_Stronghold/1_DNA/)
+- Transcribing DNA into RNA: [RNA](Rosalind_Problems/Bioinformatics_Stronghold/2_RNA/)
+- Complementing a Strand of DNA: [REVC](Rosalind_Problems/Bioinformatics_Stronghold/3_REVC/)
+- Rabbits and Recurrence Relations: [FIB](Rosalind_Problems/Bioinformatics_Stronghold/4_FIB/)
 - [More problems...](#)
 
 ## How to Use
