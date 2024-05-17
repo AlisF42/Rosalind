@@ -22,7 +22,7 @@ Rosalind/
     │   ├── problem_1
     │   │   ├── README.md
     │   │   ├── problem_1.py
-    │   │   └── problem_1.txt
+    │   │   └── problem_1_data.txt
     │   ├── problem_2
     │   │   ├── README.md
     │   │   ├── problem_2.py
@@ -32,11 +32,7 @@ Rosalind/
     │   ├── problem_1
     │   │   ├── README.md
     │   │   ├── problem_1.py
-    │   │   └── problem_1.txt
-    │   ├── problem_2
-    │   │   ├── README.md
-    │   │   ├── problem_2.py
-    │   │   └── problem_2_data.txt
+    │   │   └── problem_1_data.txt
     │   ├── ...
     └── README.md
 ```      
@@ -51,7 +47,18 @@ Below is a list of problems solved so far:
 - Transcribing DNA into RNA: [RNA](Rosalind_Problems/Bioinformatics_Stronghold/2_RNA/)
 - Complementing a Strand of DNA: [REVC](Rosalind_Problems/Bioinformatics_Stronghold/3_REVC/)
 - Rabbits and Recurrence Relations: [FIB](Rosalind_Problems/Bioinformatics_Stronghold/4_FIB/)
-- [More problems...](#)
+- Computing GC Content: [GC](Rosalind_Problems/Bioinformatics_Stronghold/5_GC/)
+- Counting Point Mutations: [HAMM](Rosalind_Problems/Bioinformatics_Stronghold/6_HAMM/)
+- Mendel's First Law: [IPRB](Rosalind_Problems/Bioinformatics_Stronghold/7_IPRB/)
+- Translating RNA into Protein: [FIB](Rosalind_Problems/Bioinformatics_Stronghold/8_PROT/)
+- Finding a Motif in DNA: [SUBS](Rosalind_Problems/Bioinformatics_Stronghold/9_SUBS/)
+
+###Python_Village
+- Hypotenuse: [INI2](Rosalind_Problems/Python_Village/INI2/)
+- Finding Substrings: [INI3](Rosalind_Problems/Python_Village/INI3/)
+- Sum of odd numbers: [INI4](Rosalind_Problems/Python_Village/INI4/)
+- Even lines: [INI5](Rosalind_Problems/Python_Village/INI5/)
+- Word count: [INI6](Rosalind_Problems/Python_Village/INI6/)
 
 ## How to Use
 
@@ -60,7 +67,7 @@ Below is a list of problems solved so far:
      git clone https://github.com/AlisF42/Rosalind
 2. Navigate to a problem directory:
    ```bash
-    cd rosalind-bioinformatics-solutions/problem1
+    cd Rosalind_Problems/Bioinformatics_Stronghold/problem1
 3. Run the solution script with Python:
   ```bash
-     ./problem1.py
+     ./problem1.py problem_1_data.txt
